@@ -1,6 +1,7 @@
 # Cetak Hello World
-print(hello world)
 
+
+# Definisi Variabel pada Pyhton
 nilai_a = 100
 nilai_b = 15
 
