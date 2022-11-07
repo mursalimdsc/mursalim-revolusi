@@ -1,13 +1,19 @@
-# Prosedural Mengihitung segitiga
 
-nilai_alas = int(input("Masukkan nilai Alas Segitiga :"))
-nilai_tinggi = int(input("Masukkan nilai Tinggi Segitiga :"))
+# Definisi Variabel
+nilai1 = int(input("Masukkan Nilai awal:"))
+nilai2 = int(input("Masukkan Nilai akhir:"))
 
-#Perhitungan Luas Segitiga
-luas_segitiga = nilai_alas*nilai_tinggi/2
+#Perkalian
+total_perkalian = nilai1 * nilai2
 
-#Perhitungan Luas Persegi
-luas_persegi = nilai_alas**2
+#Pembagian
+total_pembagian = nilai1/nilai2
+
+#penjumlahan
+total_penjumlahan = nilai1 + nilai2
+
+#Pengurangan
+total_pengurangan = nilai1 - nilai2
 
 # Fungsi
 def perkalian(a,b):
@@ -22,8 +28,11 @@ def penjumlahan(a,b):
   total = nilai_a + nilai b
   return total
 
+
 def pembagian(a,b):
   nilai_a = a
   nilai_b = b
   total_pembagian = nilai_a / nilai_b
   return total_pembagian
+
+
