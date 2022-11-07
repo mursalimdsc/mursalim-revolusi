@@ -1,3 +1,12 @@
+
+# Definisi Variabel
+nilai1 = int(input("Masukkan Nilai awal:"))
+nilai2 = int(input("Masukkan Nilai akhir:"))
+
+#Perkalian
+total = nilai1 * nilai2
+
+
 # Fungsi
 
 def perkalian(a,b):
