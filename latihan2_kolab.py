@@ -13,7 +13,11 @@ def penjumlahan(a,b):
 
 
 # Eksekusi fungsi
-
 nilai_a = int(input("Masukkan nilai A :"))
 nilai_b = int(input("Masukkan nilai B :"))
 print(penjumlahan(nilai_a,nilai_b))
+
+if(penjumlahan(nilai_a,nilai_b) >=100:
+   print("Masuk kategori penjumlahan besar")
+else:
+   print("Masuk Kategori Penumlahan Kecil")
