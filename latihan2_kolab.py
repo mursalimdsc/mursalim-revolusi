@@ -6,6 +6,8 @@ nilai2 = int(input("Masukkan Nilai akhir:"))
 #Perkalian
 total = nilai1 * nilai2
 
+#penjumlahan
+total_penjumlahan = nilai1 + nilai2
 
 # Fungsi
 
