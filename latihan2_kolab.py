@@ -9,6 +9,9 @@ total = nilai1 * nilai2
 #penjumlahan
 total_penjumlahan = nilai1 + nilai2
 
+#Pengurangan
+total_pengurangan = nilai1 - nilai2
+
 # Fungsi
 
 def perkalian(a,b):
