@@ -21,3 +21,7 @@ if(penjumlahan(nilai_a,nilai_b) >=100:
    print("Masuk kategori penjumlahan besar")
 else:
    print("Masuk Kategori Penumlahan Kecil")
+
+def pemanggilan(n):
+   print("Hello World")
+   
