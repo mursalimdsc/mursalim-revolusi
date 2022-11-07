@@ -6,8 +6,8 @@ nilai_tinggi = int(input("Masukkan nilai Tinggi Segitiga :"))
 #Perhitungan Luas Segitiga
 luas_segitiga = nilai_alas*nilai_tinggi/2
 
-
-
+#Perhitungan Luas Persegi
+luas_persegi = nilai_alas**2
 
 # Fungsi
 def perkalian(a,b):
