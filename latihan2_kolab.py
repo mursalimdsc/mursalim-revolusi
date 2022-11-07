@@ -16,7 +16,6 @@ total_penjumlahan = nilai1 + nilai2
 total_pengurangan = nilai1 - nilai2
 
 # Fungsi
-
 def perkalian(a,b):
   nilai_a = a
   nilai_b = b
@@ -29,5 +28,11 @@ def penjumlahan(a,b):
   total = nilai_a + nilai b
   return total
 
-def panggilan_sederhana(a):
-  print("hello UMKABA")
+
+def pembagian(a,b):
+  nilai_a = a
+  nilai_b = b
+  total_pembagian = nilai_a / nilai_b
+  return total_pembagian
+
+
