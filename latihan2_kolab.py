@@ -4,7 +4,10 @@ nilai1 = int(input("Masukkan Nilai awal:"))
 nilai2 = int(input("Masukkan Nilai akhir:"))
 
 #Perkalian
-total = nilai1 * nilai2
+total_perkalian = nilai1 * nilai2
+
+#Pembagian
+total_pembagian = nilai1/nilai2
 
 #penjumlahan
 total_penjumlahan = nilai1 + nilai2
