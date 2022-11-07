@@ -28,3 +28,6 @@ def penjumlahan(a,b):
   nilai_b = b
   total = nilai_a + nilai b
   return total
+
+def panggilan_sederhana(a):
+  print("hello UMKABA")
